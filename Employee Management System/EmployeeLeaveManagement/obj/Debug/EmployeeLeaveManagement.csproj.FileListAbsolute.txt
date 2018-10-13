@@ -1,0 +1,6 @@
+C:\Users\gourab.sinha\Documents\Visual Studio 2017\Projects\Employee Management System\EmployeeLeaveManagement\bin\Debug\EmployeeLeaveManagement.dll.config
+C:\Users\gourab.sinha\Documents\Visual Studio 2017\Projects\Employee Management System\EmployeeLeaveManagement\bin\Debug\EmployeeLeaveManagement.dll
+C:\Users\gourab.sinha\Documents\Visual Studio 2017\Projects\Employee Management System\EmployeeLeaveManagement\bin\Debug\EmployeeLeaveManagement.pdb
+C:\Users\gourab.sinha\Documents\Visual Studio 2017\Projects\Employee Management System\EmployeeLeaveManagement\obj\Debug\EmployeeLeaveManagement.dll
+C:\Users\gourab.sinha\Documents\Visual Studio 2017\Projects\Employee Management System\EmployeeLeaveManagement\obj\Debug\EmployeeLeaveManagement.pdb
+C:\Users\gourab.sinha\Documents\Visual Studio 2017\Projects\Employee Management System\EmployeeLeaveManagement\obj\Debug\EmployeeLeaveManagement.csprojResolveAssemblyReference.cache

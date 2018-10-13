@@ -1,0 +1,6 @@
+C:\Users\gourab.sinha\documents\visual studio 2017\Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\gourab.sinha\documents\visual studio 2017\Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csprojResolveAssemblyReference.cache
+C:\Users\gourab.sinha\documents\visual studio 2017\Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\gourab.sinha\documents\visual studio 2017\Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.dll.config
+C:\Users\gourab.sinha\documents\visual studio 2017\Projects\Employee Management System\Employee Management System\bin\Debug\Employee Management System.dll
+C:\Users\gourab.sinha\documents\visual studio 2017\Projects\Employee Management System\Employee Management System\obj\Debug\Employee Management System.dll
